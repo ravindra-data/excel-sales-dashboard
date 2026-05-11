@@ -6,7 +6,7 @@ An interactive Excel Dashboard built using Pivot Tables and Charts — analyzing
 
 ## 📌 Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](screenshots/dashboard.png)
 
 ---
 
